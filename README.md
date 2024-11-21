@@ -1,7 +1,7 @@
 Setup:
 
 Install Node.js and npm (or yarn) on your system.
-Clone this repository: git clone https://github.com/your_username/notification-api.git
+Clone this repository: git clone https://github.com/Sunny-149/notification-api.git
 Install dependencies: npm install (or yarn install)
 Create a .env file in the project root with your database connection URI and any other required environment variables.
 Example: DATABASE_URI=mongodb://localhost:27017/notification-api
